@@ -16,7 +16,7 @@ define(['N/record', 'N/search'],
          * @since 2015.2
          */
         const execute = (scriptContext) => {
-
+            log.debug('test','test')
         }
 
         return {execute}
